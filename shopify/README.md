@@ -6,7 +6,7 @@ Web platform for delicious food online...
 - React version 16.4.2. - Bootstrapped with [Create React App] (Information below)
 
 ## Server side
-- Kinvey  (API configuration will be deleted soon (if not), so you can set your own.. You don't need to create server side models in advance, they will be created at runtime...
+- Kinvey  (API configuration will be deleted soon (if not), so you can set your own.. You don't need to create server side models in advance, they will be created at runtime... Don't forget to change collection permissions(Kinvey DB settings) for Update and Delete to" Always..
 
 # Application Structure and functionality
 ### Home/Register/Login area
