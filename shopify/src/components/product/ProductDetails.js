@@ -18,6 +18,7 @@ class ProductDetails extends Component {
       loading: true,
       productId: '',
       product: '',
+      fav: '',
       favBtn: ''
     };
   }

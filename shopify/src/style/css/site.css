@@ -27,7 +27,8 @@ main {
 }
 
 .details img {
-  height: 40%;
+  height: 50vh;
+  object-fit: contain;
 }
 
 .add-form {
