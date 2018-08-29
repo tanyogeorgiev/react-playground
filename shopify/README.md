@@ -27,16 +27,18 @@ Web platform for delicious food online...
 -  Users profile - View products mark as favourites
 
 
-## Start 
+## Start
  You can view live demo on: https://sshopify.herokuapp.com/ or....
- 
-  Clone the repo,install dependencies, run app($ npm start) and go to : http://localhost:3000/ 
-  `
-   $ git clone https://github.com/tanyogeorgiev/react-playground/tree/master/shopify
+
+  Clone the repo,install dependencies, run app($ npm start) and go to : http://localhost:3000/
+  ```
+
+   $ git clone https://github.com/tanyogeorgiev/react-playground
    $ npm isntall
    $ npm start
-   
-  `
+
+  ```
+
 ---
 
 ## Author
