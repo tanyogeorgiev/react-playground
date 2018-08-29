@@ -20,7 +20,9 @@ export default (favBtn, setState, props) => {
         {
           favBtn: favBtn === 'favorite' ? 'favorite_border' : 'favorite'
         },
-        messageHelper.push('success', `Successfully add ${product.title} to your favourites!`)
+        messageHelper.push('success', `Successfully ${favBtn === 'favorite' ? 'remove' : 'add'} ${
+            product.title
+          } to your favourites!`)
       );
     });
   });
